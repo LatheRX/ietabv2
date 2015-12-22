@@ -1,5 +1,5 @@
 pref("extensions.ietab2.filter", true);
-pref("extensions.ietab2.filterlist", "/^file:\/\/\/.*\.(mht|mhtml)$/ http://*update.microsoft.com/* http://www.windowsupdate.com/*");
+pref("extensions.ietab2.filterlist", "/^file:\/\/\/.*\.(mht|mhtml)$/ http://wodnik/* http://dat/* http://*update.microsoft.com/* http://www.windowsupdate.com/*");
 
 pref("extensions.ietab2.toolsmenu", true);
 pref("extensions.ietab2.toolsmenu.icon", false);
